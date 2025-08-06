@@ -30,6 +30,15 @@ A personal playbook for CS2, it contains the utilities I know, strategies I use,
 
 
 
-## 4 更新日志
+## 4 后期计划
+
+- 将B站内容导入库中
+
+
+
+## 5 更新日志
 
 ### 2025.08.05
+
+- 添加了README文件中的介绍部分
+- 添加了Dust2的地图报点
