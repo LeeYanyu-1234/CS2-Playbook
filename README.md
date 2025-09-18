@@ -14,8 +14,6 @@ A personal playbook for CS2, it contains the utilities I know, strategies I use,
 
 
 
-
-
 ## 2 概述
 
 在战术纸开篇之处，我想先问大家一个问题：你希望打什么样的CS？是个人英雄主义式的CS，能够一个人大杀四方，主导战局；或是团队协作式的CS，队员之间积极沟通、执行战术，用协同弥补个人能力的不足；亦或是娱乐化的CS，用更好的地图理解戏弄对手当老六，把电击枪作为自己的主战武器。不论你喜欢什么样的CS，请明确自己的目标，然后带着目标来进行练习。
@@ -28,15 +26,26 @@ A personal playbook for CS2, it contains the utilities I know, strategies I use,
 
 本战术纸预计会从游戏设置、基础知识、进阶知识、各地图解析、饰品市场几个篇章来进行分享。我会将已经撰写的篇章链接贴在下面。
 
+- 游戏设置
+  - [游戏设置](https://github.com/LeeYanyu-1234/CS2-Playbook/blob/main/Dust2/CS2-Playbook-Settings.md)
+- 地图解析
+  - [炙热沙城地图解析](https://github.com/LeeYanyu-1234/CS2-Playbook/blob/main/Dust2/CS2-Playbook-Dust2.md)
+
 
 
 ## 4 后期计划
 
-- 将B站内容导入库中
+- 陆续添加各地图报点
 
 
 
 ## 5 更新日志
+
+### 2025.09.18
+
+- 添加了游戏设置文件
+
+
 
 ### 2025.08.05
 
