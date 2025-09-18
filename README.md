@@ -27,7 +27,7 @@ A personal playbook for CS2, it contains the utilities I know, strategies I use,
 本战术纸预计会从游戏设置、基础知识、进阶知识、各地图解析、饰品市场几个篇章来进行分享。我会将已经撰写的篇章链接贴在下面。
 
 - 游戏设置
-  - [游戏设置](https://github.com/LeeYanyu-1234/CS2-Playbook/blob/main/Dust2/CS2-Playbook-Settings.md)
+  - [游戏设置](https://github.com/LeeYanyu-1234/CS2-Playbook/blob/main/Settings/CS2-Playbook-Settings.md)
 - 地图解析
   - [炙热沙城地图解析](https://github.com/LeeYanyu-1234/CS2-Playbook/blob/main/Dust2/CS2-Playbook-Dust2.md)
 
