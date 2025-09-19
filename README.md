@@ -30,6 +30,9 @@ A personal playbook for CS2, it contains the utilities I know, strategies I use,
   - [游戏设置](https://github.com/LeeYanyu-1234/CS2-Playbook/blob/main/Settings/CS2-Playbook-Settings.md)
 - 地图解析
   - [炙热沙城地图解析](https://github.com/LeeYanyu-1234/CS2-Playbook/blob/main/Dust2/CS2-Playbook-Dust2.md)
+  - [炼狱小镇地图解析](https://github.com/LeeYanyu-1234/CS2-Playbook/blob/main/Inferno/CS2-Playbook-Inferno.md)
+  - [核子危机地图解析](https://github.com/LeeYanyu-1234/CS2-Playbook/blob/main/Nuke/CS2-Playbook-Nuke.md)
+  <!-- - [列车停放站地图解析](https://github.com/LeeYanyu-1234/CS2-Playbook/blob/main/Train/CS2-Playbook-Train.md) -->
 
 
 
@@ -40,6 +43,15 @@ A personal playbook for CS2, it contains the utilities I know, strategies I use,
 
 
 ## 5 更新日志
+
+### 2025.09.19
+
+- 添加了各地图素材
+- 添加了Inferno的地图报点
+- 添加了Nuke的地图报点
+- 添加了Train的地图报点
+
+
 
 ### 2025.09.18
 
