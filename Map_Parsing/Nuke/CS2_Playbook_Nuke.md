@@ -1,4 +1,4 @@
-<h1><center>CS2-Playbook-Nuke</center></h1>
+<h1><center>CS2 Playbook Nuke</center></h1>
 
 ## 1 Nuke 地图结构及分析
 

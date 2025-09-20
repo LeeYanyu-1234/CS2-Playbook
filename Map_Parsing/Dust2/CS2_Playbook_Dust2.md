@@ -1,4 +1,4 @@
-<h1><center>CS2-Playbook-Dust2</center></h1>
+<h1><center>CS2 Playbook Dust2</center></h1>
 
 ## 1 Dust2 地图结构及分析
 

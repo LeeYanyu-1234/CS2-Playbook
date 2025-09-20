@@ -1,4 +1,4 @@
-<center><h1>CS2-Playbook-Settings</h1></center>
+<center><h1>CS2 Playbook CS2 Settings</h1></center>
 
 ## 1 启动选项
 
@@ -68,6 +68,3 @@ viewmodel_fov 65; viewmodel_offset_x -0.5; viewmodel_offset_y 1; viewmodel_offse
 viewmodel_fov 68; viewmodel_offset_x 2.5; viewmodel_offset_y 0; viewmodel_offset_z -1.5; viewmodel_presetpos 2; // ZywOo
 viewmodel_fov 60; viewmodel_offset_x 0; viewmodel_offset_y 1; viewmodel_offset_z -2; viewmodel_presetpos 0; // iM
 ```
-
-
-

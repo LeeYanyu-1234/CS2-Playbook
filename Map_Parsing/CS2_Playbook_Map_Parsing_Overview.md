@@ -1,4 +1,4 @@
-<center><h1>CS2-Playbook-Map-Parsing-Overview</h1></center>
+<center><h1>CS2 Playbook Map Parsing Overview</h1></center>
 
 地图解析将从地图特色、掩体布局、CT方/T方的常用攻防手段等方面进行分析，尽量帮助玩家快速上手。在拥有先验知识的前提下，玩家可以结合自身实战经验，从而达到事半功倍的效果。地图解析的内容布局受博主个人喜好的影响较大，可能会有部分地图较详细，部分地图较粗浅的情况存在，还望各位多多包涵，也欢迎各位进行补充。
 

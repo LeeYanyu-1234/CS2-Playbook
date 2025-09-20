@@ -1,4 +1,4 @@
-<h1><center>CS2-Playbook-Train</center></h1>
+<h1><center>CS2 Playbook Train</center></h1>
 
 ## 1 Train 地图结构及分析
 

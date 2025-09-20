@@ -1,4 +1,4 @@
-<h1><center>CS2-Playbook-Inferno</center></h1>
+<h1><center>CS2 Playbook Inferno</center></h1>
 
 ## 1 Inferno 地图结构及分析
 
