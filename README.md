@@ -27,13 +27,13 @@ A personal playbook for CS2, it contains the utilities I know, strategies I use,
 本战术纸预计会从游戏设置、基础知识、进阶知识、各地图解析、饰品市场几个篇章来进行分享。我会将已经撰写的篇章链接贴在下面。
 
 - 游戏设置
-  - [CS2设置](https://github.com/LeeYanyu-1234/CS2-Playbook/blob/main/Settings/CS2-Playbook-CS2-Settings.md)
+  - [CS2设置](https://github.com/LeeYanyu-1234/CS2-Playbook/blob/main/Game_Settings/CS2-Playbook-CS2-Settings.md)
 - 地图解析
-  - [地图解析概述](https://github.com/LeeYanyu-1234/CS2-Playbook/blob/main/Map Parsing/CS2-Playbook-Map-Parsing-Overview.md)
-  - [炙热沙城地图解析](https://github.com/LeeYanyu-1234/CS2-Playbook/blob/main/Map Parsing/Dust2/CS2-Playbook-Dust2.md)
-  - [炼狱小镇地图解析](https://github.com/LeeYanyu-1234/CS2-Playbook/blob/main/Map Parsing/Inferno/CS2-Playbook-Inferno.md)
-  - [核子危机地图解析](https://github.com/LeeYanyu-1234/CS2-Playbook/blob/main/Map Parsing/Nuke/CS2-Playbook-Nuke.md)
-  <!-- - [列车停放站地图解析](https://github.com/LeeYanyu-1234/CS2-Playbook/blob/main/Map Parsing/Train/CS2-Playbook-Train.md) -->
+  - [地图解析概述](https://github.com/LeeYanyu-1234/CS2-Playbook/blob/main/Map_Parsing/CS2-Playbook-Map-Parsing-Overview.md)
+  - [炙热沙城地图解析](https://github.com/LeeYanyu-1234/CS2-Playbook/blob/main/Map_Parsing/Dust2/CS2-Playbook-Dust2.md)
+  - [炼狱小镇地图解析](https://github.com/LeeYanyu-1234/CS2-Playbook/blob/main/Map_Parsing/Inferno/CS2-Playbook-Inferno.md)
+  - [核子危机地图解析](https://github.com/LeeYanyu-1234/CS2-Playbook/blob/main/Map_Parsing/Nuke/CS2-Playbook-Nuke.md)
+  <!-- - [列车停放站地图解析](https://github.com/LeeYanyu-1234/CS2-Playbook/blob/main/Map_Parsing/Train/CS2-Playbook-Train.md) -->
 
 
 
